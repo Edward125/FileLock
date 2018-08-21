@@ -1,0 +1,23 @@
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\bin\Debug\FileLock.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\bin\Debug\FileLock.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\obj\Debug\ResolveAssemblyReference.cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\obj\Debug\FileLock.Properties.Resources.resources
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\obj\Debug\FileLock.csproj.GenerateResource.Cache
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\obj\Debug\FileLock.exe
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\obj\Debug\FileLock.pdb
+D:\Backup\我的文档\Visual Studio 2008\Projects\FileLock\FileLock\obj\Debug\FileLock.MainForm.resources
+D:\www.NewXing.com\FileLock\obj\Debug\FileLock.exe
+D:\www.NewXing.com\FileLock\obj\Debug\FileLock.pdb
+D:\www.NewXing.com\FileLock\bin\Debug\FileLock.exe
+D:\www.NewXing.com\FileLock\bin\Debug\FileLock.pdb
+D:\www.NewXing.com\FileLock\obj\Debug\FileLock.csprojResolveAssemblyReference.cache
+D:\www.NewXing.com\FileLock\obj\Debug\FileLock.MainForm.resources
+D:\www.NewXing.com\FileLock\obj\Debug\FileLock.Properties.Resources.resources
+D:\www.NewXing.com\FileLock\obj\Debug\FileLock.csproj.GenerateResource.Cache
+D:\Edward\www.NewXing.com\FileLock\obj\Debug\FileLock.exe
+D:\Edward\www.NewXing.com\FileLock\obj\Debug\FileLock.pdb
+D:\Edward\www.NewXing.com\FileLock\bin\Debug\FileLock.exe
+D:\Edward\www.NewXing.com\FileLock\bin\Debug\FileLock.pdb
+D:\Edward\www.NewXing.com\FileLock\obj\Debug\FileLock.MainForm.resources
+D:\Edward\www.NewXing.com\FileLock\obj\Debug\FileLock.Properties.Resources.resources
+D:\Edward\www.NewXing.com\FileLock\obj\Debug\FileLock.csproj.GenerateResource.Cache
